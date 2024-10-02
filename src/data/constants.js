@@ -15,7 +15,7 @@ export const Bio = {
   github: "https://github.com/Anirudha1821",
   leetcode: "https://leetcode.com/u/Anirudha2107/",
   email:"mailto:udgirkaranirudha@gmail.com",
-  resume:"https://drive.google.com/file/d/119v15Y5bIsuahMdP4CfT1uhZ_ZPLmQ02/view",
+  resume:"https://drive.google.com/file/d/12t0R2OSUGcNviNjilR3jcSYSWPVrLo-7/view",
   linkedin: "https://www.linkedin.com/in/anirudha-udgirkar-13ab53244/",
   insta: "https://www.instagram.com/anirudha07_21/",
 };
