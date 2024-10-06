@@ -29,8 +29,12 @@ const HeroSection = () => {
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">
-                        <Img src={require("../../images/HeroImage.jpg")}></Img>
+                        <Img 
+                            src={require("../../images/HeroImage.jpg")} 
+                            style={{ width: '70%', height: '600px' }} // Adjust these values as needed
+                        />
                     </HeroRightContainer>
+
             </HeroContainer>
         </div>
     )
