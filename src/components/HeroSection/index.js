@@ -31,7 +31,7 @@ const HeroSection = () => {
                     <HeroRightContainer id="Right">
                         <Img 
                             src={require("../../images/profile-pic.png")} 
-                            style={{ width: '85%', height: '600px' }} // Adjust these values as needed
+                            style={{ width: '75%', height: '500px' }} // Adjust these values as needed
                         />
                     </HeroRightContainer>
 
