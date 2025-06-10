@@ -225,7 +225,7 @@ export const education = [
     date: "June 2021 - July 2025",
     grade: "9.05 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Engineering at Pune Institute of Computer Technology,Pune. I have completed 7 semesters and have a CGPA of 9.04. I have studied courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems",
-    degree: "Bachelor of Enginnering - B.E. Computer Engineering(Hons. AIML)",
+    degree: "Bachelor of Enginnering - B.E. Computer Engineering(Hons. in AIML)",
   },
   {
     id: 1,
