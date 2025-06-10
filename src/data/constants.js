@@ -10,13 +10,13 @@ export const Bio = {
     "Problem Solver"
   ],
   description:"I’m Anirudha Udgirkar, a final-year Computer Engineering student at Pune Institute of Computer Technology (PICT).",
-  description_1:"I specialize in full-stack development, having experience in building scalable web applications using technologies like MERN, Django, DRF, Angular.",
+  description_1:"I specialize in full-stack development,data engineering having experience in building scalable web applications using technologies like MERN, Django, DRF, React.",
   description_2:"I’m passionate about problem-solving, with over 800 solved problems on platforms like LeetCode and Codeforces (Pupil).",
   github: "https://github.com/Anirudha1821",
   leetcode: "https://leetcode.com/u/Anirudha2107/",
   email:"mailto:udgirkaranirudha@gmail.com",
-  resume:"https://drive.google.com/file/d/1fLVh_s6wyTCdvOYAMajr-LJ73mBATGGF/view",
-  linkedin: "https://www.linkedin.com/in/anirudha-udgirkar-13ab53244/",
+  resume:"https://drive.google.com/file/d/1klQ1INksgyOcm7O4673tuxqFkz_06DiD/view",
+  linkedin: "https://www.linkedin.com/in/anirudha-udgirkar/",
   insta: "https://www.instagram.com/anirudha07_21/",
 };
 
@@ -150,6 +150,11 @@ export const skills = [
     title: "Others",
     skills: [
       {
+        name: "PySpark",
+        image:
+          "https://miro.medium.com/v2/resize:fit:800/0*ODwkwZTERDKRVQlS.jpeg",
+      },
+      {
         name: "Git",
         image:
           "https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png",
@@ -176,8 +181,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    role: "  Trainee Intern",
+    company: " Principal Global Services",
+    date: "January 2025 - April 2024",
+    desc: "Designed and implemented scalable ETL pipelines using PySpark to process over 10K records daily, ensuring accurate data validation and transformation on SQL databases with 95.9% integrity.",
+    desc_extra: "Developed a responsive web application using React.js with modular components and efficient state management, while deploying and monitoring the system via AWS (S3, EC2, CloudWatch) to ensure reliability and scalability.",
+    skills: [
+      "PySpark", "React.js", "SQL", "AWS S3", "AWS EC2", "AWS CloudWatch", "ETL"
+    ],
+
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 1,
     role: " Software Developer Intern",
-    company: "Siemens DI SW",
+    company: "Siemens DISW",
     date: "June 2024 - July 2024",
     desc: "Developed and deployed an HR-Interview-Feedback application using Mendix, a low-code platform, creating components, workflows, and utilizing Xpath for web functionality.",
     desc_extra: "Enhanced user functionalities by building Angular components and ensured robust performance through unit testing with Jasmine and Karma.",
@@ -187,7 +205,7 @@ export const experiences = [
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 1,
+    id: 2,
     role: " Full Stack Developer Intern",
     company: " RhythmFlows Solutions",
     date: "Sept 2023 - Jan 2024",
@@ -205,9 +223,9 @@ export const education = [
     id: 0,
     school: "Pune Institute of Computer Technology, Pune",
     date: "June 2021 - July 2025",
-    grade: "9.04 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Engineering at Pune Institute of Computer Technology,Pune. I have completed 6 semesters and have a CGPA of 9.04. I have studied courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems",
-    degree: "Bachelor of Enginnering - B.E. Computer Engineering",
+    grade: "9.05 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Engineering at Pune Institute of Computer Technology,Pune. I have completed 7 semesters and have a CGPA of 9.04. I have studied courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems",
+    degree: "Bachelor of Enginnering - B.E. Computer Engineering(Hons. AIML)",
   },
   {
     id: 1,

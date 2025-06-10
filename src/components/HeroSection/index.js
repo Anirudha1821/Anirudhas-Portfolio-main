@@ -12,7 +12,7 @@ const HeroSection = () => {
                         <Title>Hi, I'm <br></br> {Bio.name}</Title>
                         <TextLoop>
                             I am a
-                            <Span>
+                            <Span>  
                                 <Typewriter
                                     options={{
                                         strings: Bio.roles,
